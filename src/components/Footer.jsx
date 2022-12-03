@@ -16,7 +16,7 @@ function Footer() {
                 <div className="w-[408px]">
                   <img
                     className="ml-3 w-[334px] h-[60px] md:mt-12"
-                    src="virtual-experts/images/VEFinal.png"
+                    src="images/VEFinal.png"
                     alt="logo"
                   />
                   <p className="text-color-gray text-[14px] text-center leading-6 px-2 py-4 md:text-start">

@@ -18,7 +18,7 @@ function Navbar() {
             <Link to={"/"}>
               <img
                 className="ml-3 w-[170.01px] h-[31px] md:w-[278px] md:h-[50px]"
-                src="virtual-experts/images/VEFinal.png"
+                src="images/VEFinal.png"
                 alt="logo"
               />
             </Link>
