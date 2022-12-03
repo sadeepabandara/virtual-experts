@@ -29,7 +29,7 @@ function Blog() {
             <div className="flex flex-col items-center justify-center pb-4 shadow-box-shadow blog-post">
               <img
                 className="w-full h-[351px] rounded-[5px] md:h-[270px]"
-                src="images/upc-code-for-amazon.webp"
+                src="virtual-experts/images/upc-code-for-amazon.webp"
                 alt=""
               />
               <div className="flex gap-20 post-details text-color-gray text-[14px] pt-2 pb-8">
@@ -86,7 +86,7 @@ function Blog() {
             <div className="flex flex-col items-center justify-center pb-4 shadow-box-shadow blog-post rounded-[10px]">
               <img
                 className="w-full h-[351px] rounded-[5px] md:h-[270px]"
-                src="images/Amazon-Product-Review-The-ultimate-guide.webp"
+                src="virtual-experts/images/Amazon-Product-Review-The-ultimate-guide.webp"
                 alt=""
               />
               <div className="flex gap-20 post-details text-color-gray text-[14px] pt-2 pb-8">
@@ -143,7 +143,7 @@ function Blog() {
             <div className="flex flex-col items-center justify-center pb-4 shadow-box-shadow blog-post rounded-[10px]">
               <img
                 className="w-full h-[351px] rounded-[5px] md:h-[270px]"
-                src="images/amazon-seo-services.webp"
+                src="virtual-experts/images/amazon-seo-services.webp"
                 alt=""
               />
               <div className="flex gap-20 post-details text-color-gray text-[14px] pt-2 pb-8">
@@ -199,11 +199,11 @@ function Blog() {
       <section>
         <div className="container mx-auto w-[95%]">
           <div className="relative pt-4 mt-8 contact-form">
-            <img className="w-[100%]" src="images/blog-line.svg" alt="" />
+            <img className="w-[100%]" src="virtual-experts/images/blog-line.svg" alt="" />
             <div className="w-[72px] h-[72px] top-14 right-[42%] absolute circle bg-white border-[3px] rounded-[50%] border-color-orange">
               <img
                 className="absolute w-[40px] h-[34px] top-[20px] right-[14px]"
-                src="images/v-logo.svg"
+                src="virtual-experts/images/v-logo.svg"
                 alt=""
               />
             </div>

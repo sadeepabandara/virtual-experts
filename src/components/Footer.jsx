@@ -16,7 +16,7 @@ function Footer() {
                 <div className="w-[408px]">
                   <img
                     className="ml-3 w-[334px] h-[60px] md:mt-12"
-                    src="images/VEFinal.png"
+                    src="virtual-experts/images/VEFinal.png"
                     alt="logo"
                   />
                   <p className="text-color-gray text-[14px] text-center leading-6 px-2 py-4 md:text-start">
@@ -84,10 +84,10 @@ function Footer() {
                     <div className="w-[25px] h-[2px] bg-color-orange mt-2 mx-auto md:mx-0"></div>
                   </h3>
                   <div className="flex items-center justify-center gap-4 pt-4 payment-icons md:items-center md:justify-start">
-                    <img src="images/PayPal.svg" alt="" />
-                    <img src="images/Payoneer.svg" alt="" />
-                    <img src="images/Skrill.svg" alt="" />
-                    <img src="images/Bitcoin.svg" alt="" />
+                    <img src="virtual-experts/images/PayPal.svg" alt="" />
+                    <img src="virtual-experts/images/Payoneer.svg" alt="" />
+                    <img src="virtual-experts/images/Skrill.svg" alt="" />
+                    <img src="virtual-experts/images/Bitcoin.svg" alt="" />
                   </div>
                 </div>
               </div>

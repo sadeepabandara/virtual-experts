@@ -20,7 +20,7 @@ function Home() {
               <div>
                 <img
                   className="md:w-[1136px] md:h-[100%]"
-                  src="images/amazon-fba-consultant-virtual-experts.svg"
+                  src="virtual-experts/images/amazon-fba-consultant-virtual-experts.svg"
                   alt=""
                 />
               </div>
@@ -49,7 +49,7 @@ function Home() {
               <div>
                 <img
                   className="w-[404px] h-[297px] mt-14 md:w-[564px] md:h-[415px]"
-                  src="images/amazon-marketing-service-virtual-experts-limited.svg"
+                  src="virtual-experts/images/amazon-marketing-service-virtual-experts-limited.svg"
                   alt=""
                 />
               </div>
@@ -106,7 +106,7 @@ function Home() {
               </p>
               <div className="flex-wrap md:flex md:gap-7">
                 <div className="w-full p-4 pb-8 mt-8 bg-white box md:w-[408px] md:h-[216px]">
-                  <img src="images/home_refund-policy_card_image.svg" alt="" />
+                  <img src="virtual-experts/images/home_refund-policy_card_image.svg" alt="" />
                   <h3 className="my-4 font-medium uppercase">PAYMENT POLICY</h3>
                   <p className="text-color-gray leading-8 text-[14px]">
                     We use PayPal, Payoneer, Skrill & Bitcoin for a smooth
@@ -114,7 +114,7 @@ function Home() {
                   </p>
                 </div>
                 <div className="w-full p-4 pb-8 mt-8 bg-white box md:w-[408px] md:h-[216px]">
-                  <img src="images/home_safe_and_secure_image.svg" alt="" />
+                  <img src="virtual-experts/images/home_safe_and_secure_image.svg" alt="" />
                   <h3 className="my-4 font-medium uppercase">SAFE & SECURE</h3>
                   <p className="text-color-gray leading-8 text-[14px]">
                     We always keep our client details private & never share them
@@ -122,7 +122,7 @@ function Home() {
                   </p>
                 </div>
                 <div className="w-full p-4 pb-8 mt-8 bg-white box md:w-[408px] md:h-[216px]">
-                  <img src="images/home_trophy.svg" alt="" />
+                  <img src="virtual-experts/images/home_trophy.svg" alt="" />
                   <h3 className="my-4 font-medium uppercase">
                     HIGH-QUALITY SERVICE
                   </h3>
@@ -131,7 +131,7 @@ function Home() {
                   </p>
                 </div>
                 <div className="w-full p-4 pb-8 mt-8 bg-white box md:w-[408px] md:h-[216px]">
-                  <img src="images/home_fast_delivery_image.svg" alt="" />
+                  <img src="virtual-experts/images/home_fast_delivery_image.svg" alt="" />
                   <h3 className="my-4 font-medium uppercase">FAST DELIVERY</h3>
                   <p className="text-color-gray leading-8 text-[14px]">
                     We will assure you of the fastest work delivery for Amazon
@@ -139,7 +139,7 @@ function Home() {
                   </p>
                 </div>
                 <div className="w-full p-4 pb-8 mt-8 bg-white box md:w-[408px] md:h-[216px]">
-                  <img src="images/home_support_card_image.svg" alt="" />
+                  <img src="virtual-experts/images/home_support_card_image.svg" alt="" />
                   <h3 className="my-4 font-medium uppercase">24X7 SUPPORT</h3>
                   <p className="text-color-gray leading-8 text-[14px]">
                     You can call us or chat with us on Skype: virtualexpertsltd
@@ -147,7 +147,7 @@ function Home() {
                   </p>
                 </div>
                 <div className="w-full p-4 pb-8 mt-8 mb-16 bg-white box md:w-[408px] md:h-[216px]">
-                  <img src="images/home_experienced_card_image.svg" alt="" />
+                  <img src="virtual-experts/images/home_experienced_card_image.svg" alt="" />
                   <h3 className="my-4 font-medium uppercase">Experienced</h3>
                   <p className="text-color-gray leading-8 text-[14px]">
                     We have 7 years of experience in Amazon FBA/FBM Business &
@@ -173,7 +173,7 @@ function Home() {
                 <div className="flex flex-col items-center w-[490px] h-[627px]">
                   <img
                     className="my-20 w-[150px]"
-                    src="images/amazon-seo-consultant.svg"
+                    src="virtual-experts/images/amazon-seo-consultant.svg"
                     alt=""
                   />
                   <h2 className="mx-[80px] text-center md:text-[18px]">
@@ -197,7 +197,7 @@ function Home() {
                 <div className="flex flex-col items-center w-[490px] h-[627px]">
                   <img
                     className="my-20 w-[150px]"
-                    src="images/worst-amazon-reviews.svg"
+                    src="virtual-experts/images/worst-amazon-reviews.svg"
                     alt=""
                   />
                   <h2 className="mx-[80px] text-center md:text-[18px]">
@@ -221,7 +221,7 @@ function Home() {
                 <div className="flex flex-col items-center w-[476px] h-[627px]">
                   <img
                     className="my-20"
-                    src="images/amazon-product-review-virtual-experts.svg"
+                    src="virtual-experts/images/amazon-product-review-virtual-experts.svg"
                     alt=""
                   />
                   <h2 className="mx-[80px] text-center md:text-[18px]">
@@ -255,7 +255,7 @@ function Home() {
             <div className="flex flex-col pb-6 my-4 md:flex md:flex-row md:gap-16">
               <img
                 className="mt-16 md:w-[518px] md:h-[370px]"
-                src="images/amazon-marketing-strategy.svg"
+                src="virtual-experts/images/amazon-marketing-strategy.svg"
                 alt=""
               />
               <div>
@@ -332,13 +332,13 @@ function Home() {
                   <div className="relative flex flex-col items-center px-4 py-6 pt-2 mt-8 testimonials shadow-box-shadow md:max-w-[756px] md:pt-12">
                     <img
                       className="absolute top-[-38px] left-1 w-[80px] h-[80px] min-w-[10px] md:top-[0px] md:left-[-40px]"
-                      src="images/comma-icon.svg"
+                      src="virtual-experts/images/comma-icon.svg"
                       alt=""
                     />
                     <div className="circle-image relative w-[70px] h-[70px]">
                       <img
                         className="absolute max-w-full max-h-full min-w-full min-h-full rounded-full border-[3px] border-color-orange"
-                        src="images/testimonial-1.jpeg"
+                        src="virtual-experts/images/testimonial-1.jpeg"
                         alt=""
                       />
                     </div>
@@ -359,13 +359,13 @@ function Home() {
                   <div className="relative flex flex-col items-center px-4 py-6 pt-2 mt-8 testimonials shadow-box-shadow md:max-w-[756px] md:pt-12">
                     <img
                       className="absolute top-[-38px] left-1 w-[80px] h-[80px] min-w-[10px] md:top-[0px] md:left-[-40px]"
-                      src="images/comma-icon.svg"
+                      src="virtual-experts/images/comma-icon.svg"
                       alt=""
                     />
                     <div className="circle-image relative w-[70px] h-[70px]">
                       <img
                         className="absolute max-w-full max-h-full min-w-full min-h-full rounded-full border-[3px] border-color-orange"
-                        src="images/testimonial-2.jpeg"
+                        src="virtual-experts/images/testimonial-2.jpeg"
                         alt=""
                       />
                     </div>
@@ -386,13 +386,13 @@ function Home() {
                   <div className="relative flex flex-col items-center px-4 py-6 pt-2 mt-8 testimonials shadow-box-shadow md:max-w-[756px] md:pt-12">
                     <img
                       className="absolute top-[-38px] left-1 w-[80px] h-[80px] min-w-[10px] md:top-[0px] md:left-[-40px]"
-                      src="images/comma-icon.svg"
+                      src="virtual-experts/images/comma-icon.svg"
                       alt=""
                     />
                     <div className="circle-image relative w-[70px] h-[70px]">
                       <img
                         className="absolute max-w-full max-h-full min-w-full min-h-full rounded-full border-[3px] border-color-orange"
-                        src="images/testimonial-3.jpeg"
+                        src="virtual-experts/images/testimonial-3.jpeg"
                         alt=""
                       />
                     </div>

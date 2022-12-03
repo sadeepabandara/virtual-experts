@@ -18,7 +18,7 @@ function Navbar() {
             <Link to={"/"}>
               <img
                 className="ml-3 w-[170.01px] h-[31px] md:w-[278px] md:h-[50px]"
-                src="images/VEFinal.png"
+                src="virtual-experts/images/VEFinal.png"
                 alt="logo"
               />
             </Link>
@@ -58,7 +58,7 @@ function Navbar() {
             >
               <img
                 className="w-[170.01px] h-[30.55px] mt-[90px]"
-                src="images/VEFinal.png"
+                src="virtual-experts/images/VEFinal.png"
                 alt="logo"
               />
               <ul className="text-[#fff] pt-14 w-[92%]">

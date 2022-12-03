@@ -50,7 +50,7 @@ function About() {
             <div>
               <img
                 className="pt-4 pb-20 md:mt-10"
-                src="images/amazon-fba-consultant-about-virtual-experts.svg"
+                src="virtual-experts/images/amazon-fba-consultant-about-virtual-experts.svg"
                 alt=""
               />
             </div>
@@ -65,7 +65,7 @@ function About() {
             <div>
               <img
                 className="pt-24 pb-2 bg-color-white-light md:w-[3550px] md:mt-10"
-                src="images/about-virtual-experts-amazon-seo-agency.svg"
+                src="virtual-experts/images/about-virtual-experts-amazon-seo-agency.svg"
                 alt=""
               />
             </div>
@@ -169,7 +169,7 @@ function About() {
             <div className="flex flex-col items-center mt-20 cursor-pointer team-images">
               <img
                 className="w-[428px] h-[500px]"
-                src="images/richard-founder-virtual-experts.svg"
+                src="virtual-experts/images/richard-founder-virtual-experts.svg"
                 alt=""
               />
               <div className="z-10 w-[3px] h-[25px] bg-color-orange rounded-[2px]"></div>
@@ -183,7 +183,7 @@ function About() {
             <div className="flex flex-col items-center mt-20 cursor-pointer team-images">
               <img
                 className="w-[428px] h-[500px]"
-                src="images/sid-amazon-fba.svg"
+                src="virtual-experts/images/sid-amazon-fba.svg"
                 alt=""
               />
               <div className="z-10 w-[3px] h-[25px] bg-color-orange rounded-[2px]"></div>
@@ -197,7 +197,7 @@ function About() {
             <div className="flex flex-col items-center mt-20 cursor-pointer mb-14 team-images">
               <img
                 className="w-[428px] h-[500px]"
-                src="images/lisa-amazon-seo-consultant.svg"
+                src="virtual-experts/images/lisa-amazon-seo-consultant.svg"
                 alt=""
               />
               <div className="z-10 w-[3px] h-[25px] bg-color-orange rounded-[2px]"></div>

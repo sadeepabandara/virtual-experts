@@ -80,7 +80,7 @@ function Service() {
                 <div>
                   <img
                     className="w-[200px] h-[200px] md:mt-12"
-                    src="images/amazon-seo.svg"
+                    src="virtual-experts/images/amazon-seo.svg"
                     alt=""
                   />
                 </div>
@@ -111,7 +111,7 @@ function Service() {
                 <div>
                   <img
                     className="w-[200px] h-[200px] mt-12"
-                    src="images/amazon-ppc.svg"
+                    src="virtual-experts/images/amazon-ppc.svg"
                     alt=""
                   />
                 </div>
@@ -140,7 +140,7 @@ function Service() {
                 <div>
                   <img
                     className="w-[200px] h-[200px] mt-12"
-                    src="images/amazon-kindle-book-cover-design.svg"
+                    src="virtual-experts/images/amazon-kindle-book-cover-design.svg"
                     alt=""
                   />
                 </div>
@@ -167,7 +167,7 @@ function Service() {
                 <div>
                   <img
                     className="w-[200px] h-[200px] mt-12"
-                    src="images/amazon-question-answer.svg"
+                    src="virtual-experts/images/amazon-question-answer.svg"
                     alt=""
                   />
                 </div>
@@ -201,7 +201,7 @@ function Service() {
                 <div>
                   <img
                     className="w-[200px] h-[200px] mt-12"
-                    src="images/amazon-fba-consultant.svg"
+                    src="virtual-experts/images/amazon-fba-consultant.svg"
                     alt=""
                   />
                 </div>
@@ -233,7 +233,7 @@ function Service() {
                 <div>
                   <img
                     className="w-[200px] h-[200px] mt-12"
-                    src="images/amazon-helpful-vote.svg"
+                    src="virtual-experts/images/amazon-helpful-vote.svg"
                     alt=""
                   />
                 </div>
@@ -266,7 +266,7 @@ function Service() {
                 <div>
                   <img
                     className="w-[200px] h-[200px] mt-12"
-                    src="images/amazon-hijacker-removal-service.svg"
+                    src="virtual-experts/images/amazon-hijacker-removal-service.svg"
                     alt=""
                   />
                 </div>
@@ -299,7 +299,7 @@ function Service() {
                 <div>
                   <img
                     className="w-[200px] h-[200px] mt-12"
-                    src="images/amazon-product-listing-images-design.svg"
+                    src="virtual-experts/images/amazon-product-listing-images-design.svg"
                     alt=""
                   />
                 </div>
@@ -327,7 +327,7 @@ function Service() {
                 <div>
                   <img
                     className="w-[200px] h-[200px] mt-12"
-                    src="images/kindle-direct-publishing-consultant.svg"
+                    src="virtual-experts/images/kindle-direct-publishing-consultant.svg"
                     alt=""
                   />
                 </div>
@@ -359,7 +359,7 @@ function Service() {
                 <div>
                   <img
                     className="w-[200px] h-[200px] mt-12"
-                    src="images/amazon-kindle-product-review.svg"
+                    src="virtual-experts/images/amazon-kindle-product-review.svg"
                     alt=""
                   />
                 </div>
@@ -390,7 +390,7 @@ function Service() {
                 <div>
                   <img
                     className="w-[200px] h-[200px] mt-12"
-                    src="images/amazon-kindle-product-review.svg"
+                    src="virtual-experts/images/amazon-kindle-product-review.svg"
                     alt=""
                   />
                 </div>
@@ -419,7 +419,7 @@ function Service() {
                 <div>
                   <img
                     className="w-[200px] h-[200px] mt-12"
-                    src="images/remove-amazon-bad-reviews.svg"
+                    src="virtual-experts/images/remove-amazon-bad-reviews.svg"
                     alt=""
                   />
                 </div>
@@ -451,7 +451,7 @@ function Service() {
                 <div>
                   <img
                     className="w-[200px] h-[200px] mt-12"
-                    src="images/amazon-bullet-points-html.svg"
+                    src="virtual-experts/images/amazon-bullet-points-html.svg"
                     alt=""
                   />
                 </div>
@@ -479,7 +479,7 @@ function Service() {
                 <div>
                   <img
                     className="w-[200px] h-[200px] mt-12"
-                    src="images/amazon-report-abuse.svg"
+                    src="virtual-experts/images/amazon-report-abuse.svg"
                     alt=""
                   />
                 </div>
@@ -509,7 +509,7 @@ function Service() {
                 <div>
                   <img
                     className="w-[200px] h-[200px] mt-12"
-                    src="images/amazon-competitors-analysis.svg"
+                    src="virtual-experts/images/amazon-competitors-analysis.svg"
                     alt=""
                   />
                 </div>
@@ -538,7 +538,7 @@ function Service() {
                 <div>
                   <img
                     className="w-[200px] h-[200px] mt-12"
-                    src="images/amazon-video-upload.svg"
+                    src="virtual-experts/images/amazon-video-upload.svg"
                     alt=""
                   />
                 </div>
@@ -567,7 +567,7 @@ function Service() {
                 <div>
                   <img
                     className="w-[200px] h-[200px] mt-12"
-                    src="images/amazon-keyword-research.svg"
+                    src="virtual-experts/images/amazon-keyword-research.svg"
                     alt=""
                   />
                 </div>
@@ -599,7 +599,7 @@ function Service() {
                 <div>
                   <img
                     className="w-[200px] h-[200px] mt-12"
-                    src="images/amazon-fba-wholesale-suppliers.svg"
+                    src="virtual-experts/images/amazon-fba-wholesale-suppliers.svg"
                     alt=""
                   />
                 </div>
@@ -628,7 +628,7 @@ function Service() {
                 <div>
                   <img
                     className="w-[200px] h-[200px] mt-12"
-                    src="images/amazon-product-review.svg"
+                    src="virtual-experts/images/amazon-product-review.svg"
                     alt=""
                   />
                 </div>
@@ -662,7 +662,7 @@ function Service() {
                 <div>
                   <img
                     className="w-[200px] h-[200px] mt-12"
-                    src="images/amazon-competitor-attack-protection.svg"
+                    src="virtual-experts/images/amazon-competitor-attack-protection.svg"
                     alt=""
                   />
                 </div>
@@ -691,7 +691,7 @@ function Service() {
                 <div>
                   <img
                     className="w-[200px] h-[200px] mt-12"
-                    src="images/amazon-product-description-html.svg"
+                    src="virtual-experts/images/amazon-product-description-html.svg"
                     alt=""
                   />
                 </div>

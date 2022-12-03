@@ -36,7 +36,7 @@ function Talk() {
         <div className="container px-3 mx-auto">
           <div className="md:flex md:gap-16">
             <div className="py-24 md:w-[620px] ">
-              <img className="mb-4" src="images/talk.svg" alt="" />
+              <img className="mb-4" src="virtual-experts/images/talk.svg" alt="" />
               <div className="pb-8">
                 <h2 className="text-[#222F3E] text-[24px] pb-2">
                   Amazon Growth & Results.
