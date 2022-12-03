@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/virtual-experts/static/css/main.93540d98.css",
-    "main.js": "/virtual-experts/static/js/main.7ace2fee.js",
+    "main.js": "/virtual-experts/static/js/main.bdc3868b.js",
     "index.html": "/virtual-experts/index.html",
     "main.93540d98.css.map": "/virtual-experts/static/css/main.93540d98.css.map",
-    "main.7ace2fee.js.map": "/virtual-experts/static/js/main.7ace2fee.js.map"
+    "main.bdc3868b.js.map": "/virtual-experts/static/js/main.bdc3868b.js.map"
   },
   "entrypoints": [
     "static/css/main.93540d98.css",
-    "static/js/main.7ace2fee.js"
+    "static/js/main.bdc3868b.js"
   ]
 }
